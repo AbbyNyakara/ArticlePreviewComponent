@@ -1,6 +1,8 @@
 ## Frontend Mentor - Article preview component
 
-![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
+#### Desktop Design: Active state
+![image](https://user-images.githubusercontent.com/81410040/154345965-efe83b15-b308-480e-8dc9-b00e8b25b315.png)
+
 
 ## Welcome! 👋
 
